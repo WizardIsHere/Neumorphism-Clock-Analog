@@ -9,5 +9,9 @@
 
 Check it out at https://courageous-phoenix-d7afb0.netlify.app/
 
+<a href="https://courageous-phoenix-d7afb0.netlify.app/">Check it out!</a>
+
+
+
 <a href="#"><img src="assets/ss1.png" width=1390px ></a>
 <a href="#"><img src="assets/ss2.png" width=1390px ></a>
