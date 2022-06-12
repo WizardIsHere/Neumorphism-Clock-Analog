@@ -6,5 +6,8 @@
 - Includes a light and dark theme.
 - Developed using Mobile-First-Technology.
 
+
+Check it out at https://courageous-phoenix-d7afb0.netlify.app/
+
 <a href="#"><img src="assets/ss1.png" width=1390px ></a>
 <a href="#"><img src="assets/ss2.png" width=1390px ></a>
