@@ -8,7 +8,7 @@
 
 
 
-<a href="https://courageous-phoenix-d7afb0.netlify.app/">✨ Check it out! ✨</a>
+- <a href="https://courageous-phoenix-d7afb0.netlify.app/">✨ Check it out! ✨</a>
 
 
 
