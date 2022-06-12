@@ -7,9 +7,8 @@
 - Developed using Mobile-First-Technology.
 
 
-Check it out at https://courageous-phoenix-d7afb0.netlify.app/
 
-<a href="https://courageous-phoenix-d7afb0.netlify.app/">Check it out!</a>
+<a href="https://courageous-phoenix-d7afb0.netlify.app/">✨ Check it out! ✨</a>
 
 
 
